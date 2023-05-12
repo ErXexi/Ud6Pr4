@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CovidIFs/CovidIFs.iml" filepath="$PROJECT_DIR$/CovidIFs/CovidIFs.iml" />
       <module fileurl="file://$PROJECT_DIR$/RefactorIF1/RefactorIF1.iml" filepath="$PROJECT_DIR$/RefactorIF1/RefactorIF1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tasca5.iml" filepath="$PROJECT_DIR$/Tasca5.iml" />
     </modules>
